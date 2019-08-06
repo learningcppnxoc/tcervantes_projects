@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\cerva\documents\github\tcervantes_projects\cpp_session2\src\homework\source.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+  homework.vcxproj -> C:\Users\cerva\Documents\GitHub\tcervantes_projects\cpp_session2\src\homework\x64\Debug\homework.exe
